@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 58d75077105765c48bbf91a78146f59f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Camera_Interest
+    100004: Camera_Root
+    100006: //RootNode
+    100008: MouseWheel
+    100010: polymsh
+    100012: polymsh1
+    100014: Spot
+    100016: Spot1
+    100018: Spot2
+    100020: Spot_Interest
+    100022: Spot_Interest1
+    100024: Spot_Interest2
+    100026: Spot_Root
+    100028: Spot_Root1
+    100030: Spot_Root2
+    100032: Texture_Support
+    100034: Texture_Support1
+    100036: Texture_Support2
+    100038: Texture_Support3
+    400000: Camera
+    400002: Camera_Interest
+    400004: Camera_Root
+    400006: //RootNode
+    400008: MouseWheel
+    400010: polymsh
+    400012: polymsh1
+    400014: Spot
+    400016: Spot1
+    400018: Spot2
+    400020: Spot_Interest
+    400022: Spot_Interest1
+    400024: Spot_Interest2
+    400026: Spot_Root
+    400028: Spot_Root1
+    400030: Spot_Root2
+    400032: Texture_Support
+    400034: Texture_Support1
+    400036: Texture_Support2
+    400038: Texture_Support3
+    2000000: Camera
+    2100000: Wheel
+    2100002: Mouse
+    2100004: MetalPiece
+    2300000: MouseWheel
+    2300002: polymsh
+    2300004: polymsh1
+    3300000: MouseWheel
+    3300002: polymsh
+    3300004: polymsh1
+    4300000: MouseWheel
+    4300002: polymsh
+    4300004: polymsh1
+    9500000: //RootNode
+    10800000: Spot
+    10800002: Spot1
+    10800004: Spot2
+    6000828045688606266: Camera
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

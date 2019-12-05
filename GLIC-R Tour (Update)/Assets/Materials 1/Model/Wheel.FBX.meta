@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: e6c9a1a6e6da9c54f825ef7c2063d27f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: <Bottom spring catch>-<Cut-Extrude7>
+    100002: <Bounce Level>-<Boss-Extrude7>
+    100004: <Harry's Holder>-<Cut-Extrude12>
+    100006: <Vertical strut right>-<Fillet7>
+    100008: Boss-Extrude1
+    100010: Boss-Extrude1 1
+    100012: Boss-Extrude3
+    100014: Boss-Extrude3 1
+    100016: Boss-Extrude3 2
+    100018: Boss-Extrude3 3
+    100020: Boss-Extrude7
+    100022: Combine1
+    100024: Combine1 1
+    100026: CSK for M3 SFHCS1
+    100028: CSK for M3 SFHCS1 1
+    100030: Cut-Extrude1
+    100032: Cut-Extrude1 1
+    100034: Cut-Extrude1 2
+    100036: Cut-Extrude12
+    100038: Cut-Extrude2
+    100040: Cut-Extrude3
+    100042: Cut-Extrude3 1
+    100044: Cut-Extrude4
+    100046: Cut-Extrude5
+    100048: Cut-Extrude7
+    100050: Cut-Extrude8
+    100052: Cut-Extrude8 1
+    100054: Cut-Extrude9
+    100056: Cylinder001
+    100058: Fillet1
+    100060: Fillet1 1
+    100062: Fillet2
+    100064: Fillet2 1
+    100066: Fillet2 2
+    100068: Fillet2 3
+    100070: Fillet7
+    100072: Group001
+    100074: Group002
+    100076: Group003
+    100078: Group004
+    100080: Group005
+    100082: M4x0.7 Tapped Hole1
+    100084: M4x0.7 Tapped Hole2
+    100086: M4x0.7 Tapped Hole2 1
+    100088: M4x0.7 Tapped Hole2 2
+    100090: M4x0.7 Tapped Hole2 3
+    100092: Move Face1
+    100094: Move Face6[1]
+    100096: Move Face6[2]
+    100098: //RootNode
+    400000: <Bottom spring catch>-<Cut-Extrude7>
+    400002: <Bounce Level>-<Boss-Extrude7>
+    400004: <Harry's Holder>-<Cut-Extrude12>
+    400006: <Vertical strut right>-<Fillet7>
+    400008: Boss-Extrude1
+    400010: Boss-Extrude1 1
+    400012: Boss-Extrude3
+    400014: Boss-Extrude3 1
+    400016: Boss-Extrude3 2
+    400018: Boss-Extrude3 3
+    400020: Boss-Extrude7
+    400022: Combine1
+    400024: Combine1 1
+    400026: CSK for M3 SFHCS1
+    400028: CSK for M3 SFHCS1 1
+    400030: Cut-Extrude1
+    400032: Cut-Extrude1 1
+    400034: Cut-Extrude1 2
+    400036: Cut-Extrude12
+    400038: Cut-Extrude2
+    400040: Cut-Extrude3
+    400042: Cut-Extrude3 1
+    400044: Cut-Extrude4
+    400046: Cut-Extrude5
+    400048: Cut-Extrude7
+    400050: Cut-Extrude8
+    400052: Cut-Extrude8 1
+    400054: Cut-Extrude9
+    400056: Cylinder001
+    400058: Fillet1
+    400060: Fillet1 1
+    400062: Fillet2
+    400064: Fillet2 1
+    400066: Fillet2 2
+    400068: Fillet2 3
+    400070: Fillet7
+    400072: Group001
+    400074: Group002
+    400076: Group003
+    400078: Group004
+    400080: Group005
+    400082: M4x0.7 Tapped Hole1
+    400084: M4x0.7 Tapped Hole2
+    400086: M4x0.7 Tapped Hole2 1
+    400088: M4x0.7 Tapped Hole2 2
+    400090: M4x0.7 Tapped Hole2 3
+    400092: Move Face1
+    400094: Move Face6[1]
+    400096: Move Face6[2]
+    400098: //RootNode
+    2100000: 'Material #26'
+    2100002: 'Material #27'
+    2100004: No Name
+    2100006: 'Material #28'
+    2100008: 'Material #25'
+    2300000: <Bottom spring catch>-<Cut-Extrude7>
+    2300002: <Bounce Level>-<Boss-Extrude7>
+    2300004: <Harry's Holder>-<Cut-Extrude12>
+    2300006: <Vertical strut right>-<Fillet7>
+    2300008: Boss-Extrude1
+    2300010: Boss-Extrude1 1
+    2300012: Boss-Extrude3
+    2300014: Boss-Extrude3 1
+    2300016: Boss-Extrude3 2
+    2300018: Boss-Extrude3 3
+    2300020: Boss-Extrude7
+    2300022: Combine1
+    2300024: Combine1 1
+    2300026: CSK for M3 SFHCS1
+    2300028: CSK for M3 SFHCS1 1
+    2300030: Cut-Extrude1
+    2300032: Cut-Extrude1 1
+    2300034: Cut-Extrude1 2
+    2300036: Cut-Extrude12
+    2300038: Cut-Extrude2
+    2300040: Cut-Extrude3
+    2300042: Cut-Extrude3 1
+    2300044: Cut-Extrude4
+    2300046: Cut-Extrude5
+    2300048: Cut-Extrude7
+    2300050: Cut-Extrude8
+    2300052: Cut-Extrude8 1
+    2300054: Cut-Extrude9
+    2300056: Cylinder001
+    2300058: Fillet1
+    2300060: Fillet1 1
+    2300062: Fillet2
+    2300064: Fillet2 1
+    2300066: Fillet2 2
+    2300068: Fillet2 3
+    2300070: Fillet7
+    2300072: M4x0.7 Tapped Hole1
+    2300074: M4x0.7 Tapped Hole2
+    2300076: M4x0.7 Tapped Hole2 1
+    2300078: M4x0.7 Tapped Hole2 2
+    2300080: M4x0.7 Tapped Hole2 3
+    2300082: Move Face1
+    2300084: Move Face6[1]
+    2300086: Move Face6[2]
+    3300000: <Bottom spring catch>-<Cut-Extrude7>
+    3300002: <Bounce Level>-<Boss-Extrude7>
+    3300004: <Harry's Holder>-<Cut-Extrude12>
+    3300006: <Vertical strut right>-<Fillet7>
+    3300008: Boss-Extrude1
+    3300010: Boss-Extrude1 1
+    3300012: Boss-Extrude3
+    3300014: Boss-Extrude3 1
+    3300016: Boss-Extrude3 2
+    3300018: Boss-Extrude3 3
+    3300020: Boss-Extrude7
+    3300022: Combine1
+    3300024: Combine1 1
+    3300026: CSK for M3 SFHCS1
+    3300028: CSK for M3 SFHCS1 1
+    3300030: Cut-Extrude1
+    3300032: Cut-Extrude1 1
+    3300034: Cut-Extrude1 2
+    3300036: Cut-Extrude12
+    3300038: Cut-Extrude2
+    3300040: Cut-Extrude3
+    3300042: Cut-Extrude3 1
+    3300044: Cut-Extrude4
+    3300046: Cut-Extrude5
+    3300048: Cut-Extrude7
+    3300050: Cut-Extrude8
+    3300052: Cut-Extrude8 1
+    3300054: Cut-Extrude9
+    3300056: Cylinder001
+    3300058: Fillet1
+    3300060: Fillet1 1
+    3300062: Fillet2
+    3300064: Fillet2 1
+    3300066: Fillet2 2
+    3300068: Fillet2 3
+    3300070: Fillet7
+    3300072: M4x0.7 Tapped Hole1
+    3300074: M4x0.7 Tapped Hole2
+    3300076: M4x0.7 Tapped Hole2 1
+    3300078: M4x0.7 Tapped Hole2 2
+    3300080: M4x0.7 Tapped Hole2 3
+    3300082: Move Face1
+    3300084: Move Face6[1]
+    3300086: Move Face6[2]
+    4300000: CSK for M3 SFHCS1
+    4300002: Move Face1
+    4300004: M4x0.7 Tapped Hole2
+    4300006: M4x0.7 Tapped Hole2
+    4300008: M4x0.7 Tapped Hole2
+    4300010: M4x0.7 Tapped Hole2
+    4300012: <Vertical strut right>-<Fillet7>
+    4300014: Fillet7
+    4300016: M4x0.7 Tapped Hole1
+    4300018: CSK for M3 SFHCS1
+    4300020: Fillet1
+    4300022: Cut-Extrude5
+    4300024: Cut-Extrude1
+    4300026: Cut-Extrude9
+    4300028: Fillet1
+    4300030: Boss-Extrude1
+    4300032: Boss-Extrude1
+    4300034: Cut-Extrude4
+    4300036: Move Face6[2]
+    4300038: Move Face6[1]
+    4300040: Cylinder001
+    4300042: <Bounce Level>-<Boss-Extrude7>
+    4300044: Boss-Extrude7
+    4300046: Cut-Extrude7
+    4300048: <Bottom spring catch>-<Cut-Extrude7>
+    4300050: Cut-Extrude12
+    4300052: <Harry's Holder>-<Cut-Extrude12>
+    4300054: Cut-Extrude3
+    4300056: Cut-Extrude3
+    4300058: Cut-Extrude1
+    4300060: Cut-Extrude1
+    4300062: Cut-Extrude8
+    4300064: Cut-Extrude2
+    4300066: Boss-Extrude3
+    4300068: Boss-Extrude3
+    4300070: Combine1
+    4300072: Cut-Extrude8
+    4300074: Boss-Extrude3
+    4300076: Boss-Extrude3
+    4300078: Combine1
+    4300080: Fillet2
+    4300082: Fillet2
+    4300084: Fillet2
+    4300086: Fillet2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

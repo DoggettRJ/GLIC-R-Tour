@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.glicrtourupdate.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\doggett.rj\\Documents\\GitHub\\GLIC-R-Tour\\GLIC-R Tour (Update)\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "GLIC-R Tour (Update) [Testing]"
+        }
+      }
+    }
+  ]
+}

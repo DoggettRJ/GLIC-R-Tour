@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: b95e470c5d9fc9b49aff0876eaaab41b
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Blade_1
+    100002: Blade_2
+    100004: Blade_Support_1
+    100006: Blade_Support_2
+    100008: Clip2
+    100010: Clip_1
+    100012: Elastomer
+    100014: //RootNode
+    100016: Hood
+    100018: Housing
+    100020: Lubra_Bottom
+    100022: Lubra_Strip
+    100024: Lubra_support
+    100026: Trimmer_Blade
+    100028: Trimmer_Guard
+    400000: Blade_1
+    400002: Blade_2
+    400004: Blade_Support_1
+    400006: Blade_Support_2
+    400008: Clip2
+    400010: Clip_1
+    400012: Elastomer
+    400014: //RootNode
+    400016: Hood
+    400018: Housing
+    400020: Lubra_Bottom
+    400022: Lubra_Strip
+    400024: Lubra_support
+    400026: Trimmer_Blade
+    400028: Trimmer_Guard
+    2100000: Blade_1Mat
+    2100002: Blade_2Mat
+    2100004: Blade_Support_1Mat
+    2100006: Blade_Support_2Mat
+    2100008: Clip2Mat
+    2100010: Clip_1Mat
+    2100012: ElastomerMat
+    2100014: HoodMat
+    2100016: HousingMat
+    2100018: Lubra_BottomMat
+    2100020: Lubra_StripMat
+    2100022: Lubra_supportMat
+    2100024: Trimmer_BladeMat
+    2100026: Trimmer_GuardMat
+    2300000: Blade_1
+    2300002: Blade_2
+    2300004: Blade_Support_1
+    2300006: Blade_Support_2
+    2300008: Clip2
+    2300010: Clip_1
+    2300012: Elastomer
+    2300014: Hood
+    2300016: Housing
+    2300018: Lubra_Bottom
+    2300020: Lubra_Strip
+    2300022: Lubra_support
+    2300024: Trimmer_Blade
+    2300026: Trimmer_Guard
+    3300000: Blade_1
+    3300002: Blade_2
+    3300004: Blade_Support_1
+    3300006: Blade_Support_2
+    3300008: Clip2
+    3300010: Clip_1
+    3300012: Elastomer
+    3300014: Hood
+    3300016: Housing
+    3300018: Lubra_Bottom
+    3300020: Lubra_Strip
+    3300022: Lubra_support
+    3300024: Trimmer_Blade
+    3300026: Trimmer_Guard
+    4300000: Blade_1
+    4300002: Blade_2
+    4300004: Blade_Support_1
+    4300006: Blade_Support_2
+    4300008: Clip2
+    4300010: Clip_1
+    4300012: Elastomer
+    4300014: Hood
+    4300016: Housing
+    4300018: Lubra_Bottom
+    4300020: Lubra_Strip
+    4300022: Lubra_support
+    4300024: Trimmer_Blade
+    4300026: Trimmer_Guard
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,81 @@
+﻿// From "Throwable : MonoBehaviour"
+
+using System;
+using System.Collections;
+
+using UnityEngine;
+using UnityEngine.Events;
+
+using Valve.VR;
+using Valve.VR.InteractionSystem;
+
+
+
+//-------------------------------------------------------------------------
+[RequireComponent(typeof(Interactable))]
+// [RequireComponent(typeof(Rigidbody))]
+public class motionControllerRotateUp : MonoBehaviour
+{
+    [SerializeField]
+    //private GameObject doink;
+
+    [HideInInspector]
+    public Interactable interactable;
+    public float speed;
+    public GameObject slider;
+
+    void Start()
+    {
+
+
+    }
+
+    //-------------------------------------------------
+    protected virtual void Awake()
+    {
+        interactable = GetComponent<Interactable>();
+    }
+
+
+    //-------------------------------------------------
+    protected virtual void OnHandHoverBegin(Hand hand)
+    {
+        // Debug.Log($"OnHandHoverBegin(Hand hand): { gameObject.name }");
+    }
+
+
+    //-------------------------------------------------
+    protected virtual void OnHandHoverEnd(Hand hand)
+    {
+        // Debug.Log($"OnHandHoverEnd(Hand hand): { gameObject.name }");
+        hand.HideGrabHint();
+    }
+
+
+    //-------------------------------------------------
+    public virtual void HandHoverUpdate(Hand hand)
+    {
+      
+    Debug.Log("HIT!!!!!");
+
+    slider.transform.Rotate(0, speed * Time.deltaTime, 0);
+  
+    }
+
+    private void CreateDoink()
+    {
+        // Instantiate(doink, new Vector3(0.0f, 3.0f, 0.0f), Quaternion.identity);
+    }
+
+    //-------------------------------------------------
+    protected virtual void OnHandFocusAcquired(Hand hand)
+    {
+        throw new NotImplementedException("protected virtual void OnHandFocusAcquired(Hand hand)");
+        gameObject.SetActive(true);
+    }
+
+
+    //-------------------------------------------------
+   
+}
+

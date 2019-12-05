@@ -1,0 +1,573 @@
+fileFormatVersion: 2
+guid: e7f2f09123b71304cb11f4b1c98cfec6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 406 Blade
+    100002: 4Blade clamp A frame
+    100004: Bearing cover-022
+    100006: Bearing cover-023
+    100008: Bearing cover-024
+    100010: Bearing cover-025
+    100012: Bearing cover-026
+    100014: Bearing cover-027
+    100016: Bearing cover-028
+    100018: Bearing cover-029
+    100020: Bearing cover-030
+    100022: Bearing cover-031
+    100024: Bearing L plate - MIRRORED
+    100026: Bearing L plate - MIRRORED001
+    100028: Bearing L plate - MIRRORED002
+    100030: Bearing L plate - MIRRORED003
+    100032: Bearing L plate - MIRRORED004
+    100034: Bearing L plate - MIRRORED005
+    100036: Bearing L plate - MIRRORED006
+    100038: Bearing L plate - MIRRORED007
+    100040: Bearing L plate - MIRRORED008
+    100042: Bearing L plate - MIRRORED009
+    100044: Bearing washer-012
+    100046: Bearing washer-013
+    100048: Bearing washer-014
+    100050: Bearing washer-015
+    100052: Bearing washer-016
+    100054: Bearing washer-017
+    100056: Bearing washer-018
+    100058: Bearing washer-019
+    100060: Bearing washer-020
+    100062: Bearing washer-11
+    100064: Blade Clamp - Base
+    100066: Blade plug
+    100068: Blade plug001
+    100070: C Bracket - Bottom
+    100072: C Bracket Top
+    100074: Carraige
+    100076: Cylinder001
+    100078: Cylinder002
+    100080: Cylinder003
+    100082: Cylinder004
+    100084: Cylinder005
+    100086: Cylinder006
+    100088: Cylinder007
+    100090: Cylinder008
+    100092: Cylinder009
+    100094: Cylinder010
+    100096: Group002
+    100098: Group003
+    100100: Group004
+    100102: Group005
+    100104: Group006
+    100106: Group007
+    100108: Group008
+    100110: Group009
+    100112: Group010
+    100114: Group011
+    100116: Guide Rail
+    100118: Guide rail holder-1
+    100120: //RootNode
+    100122: L Plate Spacer-012
+    100124: L Plate Spacer-013
+    100126: L Plate Spacer-014
+    100128: L Plate Spacer-015
+    100130: L Plate Spacer-016
+    100132: L Plate Spacer-017
+    100134: L Plate Spacer-018
+    100136: L Plate Spacer-019
+    100138: L Plate Spacer-020
+    100140: L Plate Spacer-11
+    100142: Left Rail MIRRORED
+    100144: Left rail MIRRORED-1
+    100146: Magnet
+    100148: Magnet Clamp
+    100150: Pivot fixing-1
+    100152: Pivot fixing-2
+    100154: Pivotting location-1
+    100156: Pivotting location-2
+    100158: Right rail - MIRRORED-1
+    100160: Roller Bearing010
+    100162: Roller Bearing011
+    100164: Roller Bearing012
+    100166: Roller Bearing013
+    100168: Roller Bearing014
+    100170: Roller Bearing015
+    100172: Roller Bearing016
+    100174: Roller Bearing017
+    100176: Roller Bearing018
+    100178: Roller Bearing019
+    100180: Rotation pin-012
+    100182: Rotation pin-013
+    100184: Rotation pin-014
+    100186: Rotation pin-015
+    100188: Rotation pin-016
+    100190: Rotation pin-017
+    100192: Rotation pin-018
+    100194: Rotation pin-019
+    100196: Rotation pin-020
+    100198: Rotation pin-11
+    100200: Slide stopper-2
+    100202: Steel holding plate-1
+    400000: 406 Blade
+    400002: 4Blade clamp A frame
+    400004: Bearing cover-022
+    400006: Bearing cover-023
+    400008: Bearing cover-024
+    400010: Bearing cover-025
+    400012: Bearing cover-026
+    400014: Bearing cover-027
+    400016: Bearing cover-028
+    400018: Bearing cover-029
+    400020: Bearing cover-030
+    400022: Bearing cover-031
+    400024: Bearing L plate - MIRRORED
+    400026: Bearing L plate - MIRRORED001
+    400028: Bearing L plate - MIRRORED002
+    400030: Bearing L plate - MIRRORED003
+    400032: Bearing L plate - MIRRORED004
+    400034: Bearing L plate - MIRRORED005
+    400036: Bearing L plate - MIRRORED006
+    400038: Bearing L plate - MIRRORED007
+    400040: Bearing L plate - MIRRORED008
+    400042: Bearing L plate - MIRRORED009
+    400044: Bearing washer-012
+    400046: Bearing washer-013
+    400048: Bearing washer-014
+    400050: Bearing washer-015
+    400052: Bearing washer-016
+    400054: Bearing washer-017
+    400056: Bearing washer-018
+    400058: Bearing washer-019
+    400060: Bearing washer-020
+    400062: Bearing washer-11
+    400064: Blade Clamp - Base
+    400066: Blade plug
+    400068: Blade plug001
+    400070: C Bracket - Bottom
+    400072: C Bracket Top
+    400074: Carraige
+    400076: Cylinder001
+    400078: Cylinder002
+    400080: Cylinder003
+    400082: Cylinder004
+    400084: Cylinder005
+    400086: Cylinder006
+    400088: Cylinder007
+    400090: Cylinder008
+    400092: Cylinder009
+    400094: Cylinder010
+    400096: Group002
+    400098: Group003
+    400100: Group004
+    400102: Group005
+    400104: Group006
+    400106: Group007
+    400108: Group008
+    400110: Group009
+    400112: Group010
+    400114: Group011
+    400116: Guide Rail
+    400118: Guide rail holder-1
+    400120: //RootNode
+    400122: L Plate Spacer-012
+    400124: L Plate Spacer-013
+    400126: L Plate Spacer-014
+    400128: L Plate Spacer-015
+    400130: L Plate Spacer-016
+    400132: L Plate Spacer-017
+    400134: L Plate Spacer-018
+    400136: L Plate Spacer-019
+    400138: L Plate Spacer-020
+    400140: L Plate Spacer-11
+    400142: Left Rail MIRRORED
+    400144: Left rail MIRRORED-1
+    400146: Magnet
+    400148: Magnet Clamp
+    400150: Pivot fixing-1
+    400152: Pivot fixing-2
+    400154: Pivotting location-1
+    400156: Pivotting location-2
+    400158: Right rail - MIRRORED-1
+    400160: Roller Bearing010
+    400162: Roller Bearing011
+    400164: Roller Bearing012
+    400166: Roller Bearing013
+    400168: Roller Bearing014
+    400170: Roller Bearing015
+    400172: Roller Bearing016
+    400174: Roller Bearing017
+    400176: Roller Bearing018
+    400178: Roller Bearing019
+    400180: Rotation pin-012
+    400182: Rotation pin-013
+    400184: Rotation pin-014
+    400186: Rotation pin-015
+    400188: Rotation pin-016
+    400190: Rotation pin-017
+    400192: Rotation pin-018
+    400194: Rotation pin-019
+    400196: Rotation pin-020
+    400198: Rotation pin-11
+    400200: Slide stopper-2
+    400202: Steel holding plate-1
+    2100000: Guillotine
+    2300000: 406 Blade
+    2300002: 4Blade clamp A frame
+    2300004: Bearing cover-022
+    2300006: Bearing cover-023
+    2300008: Bearing cover-024
+    2300010: Bearing cover-025
+    2300012: Bearing cover-026
+    2300014: Bearing cover-027
+    2300016: Bearing cover-028
+    2300018: Bearing cover-029
+    2300020: Bearing cover-030
+    2300022: Bearing cover-031
+    2300024: Bearing L plate - MIRRORED
+    2300026: Bearing L plate - MIRRORED001
+    2300028: Bearing L plate - MIRRORED002
+    2300030: Bearing L plate - MIRRORED003
+    2300032: Bearing L plate - MIRRORED004
+    2300034: Bearing L plate - MIRRORED005
+    2300036: Bearing L plate - MIRRORED006
+    2300038: Bearing L plate - MIRRORED007
+    2300040: Bearing L plate - MIRRORED008
+    2300042: Bearing L plate - MIRRORED009
+    2300044: Bearing washer-012
+    2300046: Bearing washer-013
+    2300048: Bearing washer-014
+    2300050: Bearing washer-015
+    2300052: Bearing washer-016
+    2300054: Bearing washer-017
+    2300056: Bearing washer-018
+    2300058: Bearing washer-019
+    2300060: Bearing washer-020
+    2300062: Bearing washer-11
+    2300064: Blade Clamp - Base
+    2300066: Blade plug
+    2300068: Blade plug001
+    2300070: C Bracket - Bottom
+    2300072: C Bracket Top
+    2300074: Carraige
+    2300076: Cylinder001
+    2300078: Cylinder002
+    2300080: Cylinder003
+    2300082: Cylinder004
+    2300084: Cylinder005
+    2300086: Cylinder006
+    2300088: Cylinder007
+    2300090: Cylinder008
+    2300092: Cylinder009
+    2300094: Cylinder010
+    2300096: Guide Rail
+    2300098: Guide rail holder-1
+    2300100: //RootNode
+    2300102: L Plate Spacer-012
+    2300104: L Plate Spacer-013
+    2300106: L Plate Spacer-014
+    2300108: L Plate Spacer-015
+    2300110: L Plate Spacer-016
+    2300112: L Plate Spacer-017
+    2300114: L Plate Spacer-018
+    2300116: L Plate Spacer-019
+    2300118: L Plate Spacer-020
+    2300120: L Plate Spacer-11
+    2300122: Left Rail MIRRORED
+    2300124: Left rail MIRRORED-1
+    2300126: Magnet
+    2300128: Magnet Clamp
+    2300130: Pivot fixing-1
+    2300132: Pivot fixing-2
+    2300134: Pivotting location-1
+    2300136: Pivotting location-2
+    2300138: Right rail - MIRRORED-1
+    2300140: Roller Bearing010
+    2300142: Roller Bearing011
+    2300144: Roller Bearing012
+    2300146: Roller Bearing013
+    2300148: Roller Bearing014
+    2300150: Roller Bearing015
+    2300152: Roller Bearing016
+    2300154: Roller Bearing017
+    2300156: Roller Bearing018
+    2300158: Roller Bearing019
+    2300160: Rotation pin-012
+    2300162: Rotation pin-013
+    2300164: Rotation pin-014
+    2300166: Rotation pin-015
+    2300168: Rotation pin-016
+    2300170: Rotation pin-017
+    2300172: Rotation pin-018
+    2300174: Rotation pin-019
+    2300176: Rotation pin-020
+    2300178: Rotation pin-11
+    2300180: Slide stopper-2
+    2300182: Steel holding plate-1
+    3300000: 406 Blade
+    3300002: 4Blade clamp A frame
+    3300004: Bearing cover-022
+    3300006: Bearing cover-023
+    3300008: Bearing cover-024
+    3300010: Bearing cover-025
+    3300012: Bearing cover-026
+    3300014: Bearing cover-027
+    3300016: Bearing cover-028
+    3300018: Bearing cover-029
+    3300020: Bearing cover-030
+    3300022: Bearing cover-031
+    3300024: Bearing L plate - MIRRORED
+    3300026: Bearing L plate - MIRRORED001
+    3300028: Bearing L plate - MIRRORED002
+    3300030: Bearing L plate - MIRRORED003
+    3300032: Bearing L plate - MIRRORED004
+    3300034: Bearing L plate - MIRRORED005
+    3300036: Bearing L plate - MIRRORED006
+    3300038: Bearing L plate - MIRRORED007
+    3300040: Bearing L plate - MIRRORED008
+    3300042: Bearing L plate - MIRRORED009
+    3300044: Bearing washer-012
+    3300046: Bearing washer-013
+    3300048: Bearing washer-014
+    3300050: Bearing washer-015
+    3300052: Bearing washer-016
+    3300054: Bearing washer-017
+    3300056: Bearing washer-018
+    3300058: Bearing washer-019
+    3300060: Bearing washer-020
+    3300062: Bearing washer-11
+    3300064: Blade Clamp - Base
+    3300066: Blade plug
+    3300068: Blade plug001
+    3300070: C Bracket - Bottom
+    3300072: C Bracket Top
+    3300074: Carraige
+    3300076: Cylinder001
+    3300078: Cylinder002
+    3300080: Cylinder003
+    3300082: Cylinder004
+    3300084: Cylinder005
+    3300086: Cylinder006
+    3300088: Cylinder007
+    3300090: Cylinder008
+    3300092: Cylinder009
+    3300094: Cylinder010
+    3300096: Guide Rail
+    3300098: Guide rail holder-1
+    3300100: //RootNode
+    3300102: L Plate Spacer-012
+    3300104: L Plate Spacer-013
+    3300106: L Plate Spacer-014
+    3300108: L Plate Spacer-015
+    3300110: L Plate Spacer-016
+    3300112: L Plate Spacer-017
+    3300114: L Plate Spacer-018
+    3300116: L Plate Spacer-019
+    3300118: L Plate Spacer-020
+    3300120: L Plate Spacer-11
+    3300122: Left Rail MIRRORED
+    3300124: Left rail MIRRORED-1
+    3300126: Magnet
+    3300128: Magnet Clamp
+    3300130: Pivot fixing-1
+    3300132: Pivot fixing-2
+    3300134: Pivotting location-1
+    3300136: Pivotting location-2
+    3300138: Right rail - MIRRORED-1
+    3300140: Roller Bearing010
+    3300142: Roller Bearing011
+    3300144: Roller Bearing012
+    3300146: Roller Bearing013
+    3300148: Roller Bearing014
+    3300150: Roller Bearing015
+    3300152: Roller Bearing016
+    3300154: Roller Bearing017
+    3300156: Roller Bearing018
+    3300158: Roller Bearing019
+    3300160: Rotation pin-012
+    3300162: Rotation pin-013
+    3300164: Rotation pin-014
+    3300166: Rotation pin-015
+    3300168: Rotation pin-016
+    3300170: Rotation pin-017
+    3300172: Rotation pin-018
+    3300174: Rotation pin-019
+    3300176: Rotation pin-020
+    3300178: Rotation pin-11
+    3300180: Slide stopper-2
+    3300182: Steel holding plate-1
+    4300000: Base cross-1
+    4300002: Pivot fixing-2
+    4300004: Guide rail holder-1
+    4300006: C Bracket - Bottom
+    4300008: Right rail - MIRRORED-1
+    4300010: Rotation pin-11
+    4300012: Bearing L plate - MIRRORED
+    4300014: Bearing washer-11
+    4300016: Roller Bearing010
+    4300018: Bearing cover-022
+    4300020: Roller Bearing011
+    4300022: Bearing cover-023
+    4300024: Roller Bearing012
+    4300026: Bearing cover-024
+    4300028: Roller Bearing013
+    4300030: Bearing cover-025
+    4300032: Roller Bearing014
+    4300034: Bearing cover-026
+    4300036: Roller Bearing015
+    4300038: Bearing cover-027
+    4300040: Roller Bearing016
+    4300042: Bearing cover-028
+    4300044: Roller Bearing017
+    4300046: Bearing cover-029
+    4300048: Roller Bearing018
+    4300050: Bearing cover-030
+    4300052: Roller Bearing019
+    4300054: Bearing cover-031
+    4300056: L Plate Spacer-11
+    4300058: Rotation pin-012
+    4300060: L Plate Spacer-012
+    4300062: Bearing L plate - MIRRORED001
+    4300064: Bearing washer-012
+    4300066: Rotation pin-013
+    4300068: L Plate Spacer-013
+    4300070: Bearing L plate - MIRRORED002
+    4300072: Bearing washer-013
+    4300074: Rotation pin-014
+    4300076: L Plate Spacer-014
+    4300078: Bearing L plate - MIRRORED003
+    4300080: Bearing washer-014
+    4300082: Rotation pin-015
+    4300084: L Plate Spacer-015
+    4300086: Bearing L plate - MIRRORED004
+    4300088: Bearing washer-015
+    4300090: Rotation pin-016
+    4300092: L Plate Spacer-016
+    4300094: Bearing L plate - MIRRORED005
+    4300096: Bearing washer-016
+    4300098: Rotation pin-017
+    4300100: L Plate Spacer-017
+    4300102: Bearing L plate - MIRRORED006
+    4300104: Bearing washer-017
+    4300106: Rotation pin-018
+    4300108: L Plate Spacer-018
+    4300110: Bearing L plate - MIRRORED007
+    4300112: Bearing washer-018
+    4300114: Rotation pin-019
+    4300116: L Plate Spacer-019
+    4300118: Bearing L plate - MIRRORED008
+    4300120: Bearing washer-019
+    4300122: Rotation pin-020
+    4300124: L Plate Spacer-020
+    4300126: Bearing L plate - MIRRORED009
+    4300128: Bearing washer-020
+    4300130: Cylinder001
+    4300132: Cylinder002
+    4300134: Cylinder003
+    4300136: Cylinder004
+    4300138: Cylinder005
+    4300140: Cylinder006
+    4300142: Cylinder007
+    4300144: Cylinder008
+    4300146: Cylinder009
+    4300148: Cylinder010
+    4300150: C Bracket Top
+    4300152: Left rail MIRRORED-1
+    4300154: Left Rail MIRRORED
+    4300156: Guide Rail
+    4300158: Magnet Clamp
+    4300160: Magnet
+    4300162: Carraige
+    4300164: Blade Clamp - Base
+    4300166: 4Blade clamp A frame
+    4300168: Steel holding plate-1
+    4300170: 406 Blade
+    4300172: Blade plug
+    4300174: Blade plug001
+    4300176: Slide stopper-2
+    4300178: Pivotting location-2
+    4300180: Pivotting location-1
+    4300182: Pivot fixing-1
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
